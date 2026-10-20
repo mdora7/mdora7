@@ -5,6 +5,7 @@
 ### What I'm working on
 
 - 🤖 **GEM & I**, a chat-first AI agent that takes pre-accounting and e-invoicing from form-based screens to a conversation. Built with Python, FastAPI and LangGraph, plus a narrowly scoped .NET facade. The LLM extracts intent only; every financial write goes through deterministic validation, exact-payload approval and idempotency. *(private, at GEM Bilişim, the company I founded)*
+- 📝 **Write-up:** [The LLM Is Not the Ledger](https://github.com/mdora7/llm-is-not-the-ledger), the architecture and trust boundaries behind it.
 
 ### Where I've worked
 
